@@ -71,7 +71,7 @@
 ## 🚀 Result
 
 ### **발표ppt**
-[어울림 ppt](https://github.com/NVDIII/EoUlim/blob/main/%EC%96%B4%EC%9A%B8%EB%A6%BC.pdf)
+[어울림 ppt](Eoullim.pdf)
 
 
 ### **YOLOv5**
