@@ -113,7 +113,7 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/openai-412991?style=flat&logo=openai&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/>&nbsp;&nbsp;;
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Flask-009688?style=flat&logo=Flask&logoColor=4479A1"/>&nbsp;&nbsp;
 </p>
 
